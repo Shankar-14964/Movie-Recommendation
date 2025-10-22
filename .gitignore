@@ -1,0 +1,10 @@
+# created by virtualenv automatically
+venv/
+src/cosine_sim.pkl
+src/df_cleaned.pkl
+src/preprocess.log
+src/recommend.log
+src/tfidf_matrix.pkl
+.idea/.name
+src/__pycache__/
+
